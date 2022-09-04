@@ -1,3 +1,4 @@
+@media print { body { -webkit-print-color-adjust: exact; } }
 body {
   margin: 0;
   padding: 5px 0px 5px 15px;
