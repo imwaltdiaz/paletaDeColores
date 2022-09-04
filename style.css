@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  padding: 5px 0px 5px 15px;
+}
+.spring, .winter, .autumn {
+  display: flex;
+  width: 90vw  ;
+}
+
+div {
+  height: 200px;
+  width: 200px;
+}
+.spring > .uno {
+  background-color: #ebc995;
+}
+.spring > .dos {
+  background-color: #F05462;
+}
+.spring > .tres {
+  background-color: #EF232E;
+}
+.spring > .cuatro {
+  background-color: #685BA1;
+}
+.spring > .cinco {
+  background-color: rgb(102,199,188);
+}
+.spring > .seis {
+  background-color: rgb(31,140,183);
+}
+.spring > .siete {
+  background-color: rgb(0,68,131);
+}
+/* winter */
+.winter > .uno {
+  background-color: #88255E;
+}
+.winter > .dos {
+  background-color: #B73465;
+}
+.winter > .tres {
+  background-color: #18454B;
+}
+.winter > .cuatro {
+  background-color: rgb(58,150,217);
+}
+.winter > .cinco {
+  background-color: rgb(254,254,254);
+}
+.winter > .seis {
+  background-color: #18454B;
+}
+.winter > .siete {
+  background-color: #091B41;
+}
+/* autumn */
+.autumn > .uno {
+  background-color: #E6BA25;
+}
+.autumn > .dos {
+  background-color: #BB9662;
+}
+.autumn > .tres {
+  background-color: #0B4958;
+}
+.autumn > .cuatro {
+  background-color: rgb(45,21,69);
+}
+.autumn > .cinco {
+  background-color: rgb(115,52,17);
+}
+.autumn > .seis {
+  background-color: #F3695F;
+}
+.autumn > .siete {
+  background-color: #CC1823;
+}
